@@ -15,7 +15,7 @@ The attached document includes:
 
 ## 📁 File
 
-- `QA_test.docx` – the full list of test questions and responses, sorted by question type.
+- `QA_test.pdf` – the full list of test questions and responses, sorted by question type.
 
 ## 🧪 Test Setup
 
